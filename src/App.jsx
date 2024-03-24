@@ -40,11 +40,17 @@ function App() {
         phone="(333) 123-45"
         email="pump@hotmail.com"
       />
-      <Kissa 
+      {/* <Kissa 
         img="../images/whiskerson.png"
         name="Mr. Whiskerson"
         phone="(444) 123-45"
         email="whisk@hotmail.com"
+      /> */}
+      <Kissa 
+        img="../images/cat.avif"
+        name="Mr.Tortilla"
+        phone="(555) 123-45"
+        email="tort@hotmail.com"
       />
     </div>
   )
